@@ -6,6 +6,7 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Site Repository: https://github.com/luigipacheco/animaquinaweb
-  
+
 plugins:
   - jekyll-default-layout
+color_scheme: dark
