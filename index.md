@@ -21,9 +21,9 @@ Animaquina is a robot Integrated Development Environment (IDE) designed for cont
 
 ## Versions
 
-- Animaquina-UR: Compatible with Universal Robots tested with UR5e, UR10e and UR20
+- Animaquina-UR: Compatible with Universal robots tested with UR5e, UR10e and UR20
 - Animaquina-Xarm: Compatible with Ufactory robots tested with Xarm-6
-- Animaquina- KUKA : Limited Functionality tested with KUKA Agilus KR10-1100
+- Animaquina- KUKA : Compatible with KUKA robots (Limited Functionality) tested with KUKA Agilus KR10-1100
 
 Reach out for support and custom robot integration with Animaquina at: luigi(at)neobrutal(dot)com
 

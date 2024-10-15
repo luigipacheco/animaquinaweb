@@ -95,11 +95,3 @@ Contributions by:
 For support or to report bugs, please [contact our support team/create an issue on our GitHub repository].
 
 **Note:** This is a pre-alpha version intended for development and testing purposes only. It contains significant limitations and safety risks. Do not use in production environments or without expert supervision.
-
-## Acknowledgments
-
-This project builds on the ideas and inspirations from several similar tools, including KUKA//prc,tactum,  Mimic for Maya, Oriole, VisoSE/Robots, and RobotexMachina. Their innovative approaches and solutions have influenced the development of this project. 
-
-Special thanks to the RDF Lab @ FIU for providing the necessary equipment to test. Your support and resources have been invaluable in bringing this project to fruition. 
-
-We also extend our gratitude to the developers of the urx and ur_rtde libraries for making it easy to communicate Robots using Python. Your contributions have greatly simplified the integration of robotic control in this project
