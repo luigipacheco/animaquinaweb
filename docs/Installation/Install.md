@@ -1,3 +1,9 @@
+---
+layout: default
+title: Install
+nav_enabled: true
+---
+
 # Animaquina v0.0.4 Pre-Alpha for Universal Robots
 by Luis Pacheco
 
