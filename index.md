@@ -17,6 +17,7 @@ Animaquina is a robot Integrated Development Environment (IDE) designed for cont
 - Marker placement for digitizing cell features
 - Toolpath execution based on mesh object vertices
 - Display of current joint rotation and TCP position in the info panel
+- VR and XR integration with Freebird XR.
 
 ## Versions
 
