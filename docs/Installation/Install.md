@@ -5,9 +5,6 @@ nav_enabled: true
 ---
 
 # Animaquina v0.0.4 Pre-Alpha for Universal Robots
-by Luis Pacheco
-
-Animaquina is a robot Integrated Development Environment (IDE) designed for controlling and simulating Robots within Blender. It leverages Blender's powerful 3D capabilities to provide a versatile platform for robot programming and visualization.
 
 ## Version Information
 - Compatible with Blender 4.2
@@ -55,18 +52,6 @@ Animaquina is a robot Integrated Development Environment (IDE) designed for cont
 
 
     **Warning:** The order of vertices in the mesh object matters for the toolpath execution. Ensure the vertices are in the correct order before using this function.
-
-## Features
-
-- IP-based robot connection
-- Real-time robot manipulation via Blender's 3D viewport
-- Digital twin synchronization with physical robot
-- Real-time movement visualization
-- Manual mode for physical robot manipulation
-- Live update of digital twin in manual mode
-- Marker placement for digitizing cell features
-- Toolpath execution based on mesh object vertices
-- Display of current joint rotation and TCP position in the info panel
 
 ## Known Issues and Safety Warnings
 
